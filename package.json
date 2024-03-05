@@ -1,0 +1,26 @@
+{
+  "name": "@xkemox/kem-o",
+  "version": "1.0.0",
+  "description": "Hello Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xkemox/KEM-O.git"
+  },
+  "keywords": [
+    "TEA",
+    "Tutorial"
+  ],
+  "author": "Kemo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xkemox/KEM-O/issues"
+  },
+  "homepage": "https://github.com/xkemox/KEM-O#readme",
+  "dependencies": {
+    "kem-o": "^1.0.0"
+  }
+}
